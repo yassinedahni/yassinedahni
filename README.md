@@ -4,7 +4,7 @@ Hi 👋 My name is Yassine Dahni
 Junior Backend developer
 ------------------------
 
-I belive that the most important thing in life is to find yourself and what you like, I'm very glad that I have chosen this path . This I motivate me and so I move on . Patience and a little effort .
+I believe that the most important thing in life is to find yourself and what you like, I'm very glad that I have chosen this path . This I motivate me and so I move on . Patience and a little effort .
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [ydahni9@gmail.com](mailto:ydahni9@gmail.com)
