@@ -10,6 +10,8 @@ I belive that the most important thing in life is to find yourself and what you 
 * ✉️  You can contact me at [ydahni9@gmail.com](mailto:ydahni9@gmail.com)
 * 🧠  I'm learning C++/ JavaScript / Node.js /Python.
 
+[![ydahni's 42 stats](https://badge.mediaplus.ma/greenbinary/ydahni)](https://github.com/oakoudad/badge42)
+
 ### Skills
 
 <p align="left">
