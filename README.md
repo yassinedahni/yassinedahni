@@ -40,4 +40,4 @@ I belive that the most important thing in life is to find yourself and what you 
 
 <a href="http://www.github.com/yassinedahni"><img src="https://activity-graph.herokuapp.com/graph?username=yassinedahni&bg_color=000000&color=3382ed&line=ffffff&point=3382ed&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<div width="100%" align="center"></div><br /><br />
+<div width="100%" align="center"></div><br />
