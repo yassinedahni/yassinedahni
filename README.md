@@ -8,7 +8,7 @@ I believe that the most important thing in life is to find yourself and what you
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [ydahni9@gmail.com](mailto:ydahni9@gmail.com)
-* 🧠  I'm learning C++/ JavaScript / Node.js /Python.
+* 🧠  C / C++ / JavaScript / Node.js /Python.
 
 [![ydahni's 42 stats](https://badge.mediaplus.ma/greenbinary/ydahni)](https://github.com/oakoudad/badge42)
 
